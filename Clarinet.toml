@@ -5,6 +5,7 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+
 [contracts.project-verification]
 path = 'contracts/project-verification.clar'
 clarity_version = 2

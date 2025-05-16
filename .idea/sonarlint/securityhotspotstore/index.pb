@@ -5,3 +5,7 @@ S
 #contracts/project-verification.clar,8/b/8b9b88a9f67dd8667e5cbd9073febb8c3ffb3e3a
 R
 "tests/project-verification.test.ts,1/e/1ef6eacd6f43e21faf080ea01843cb29636b1567
+Q
+!contracts/impact-measurement.clar,7/7/7765dce0edaef472557ecdb6faf8a55698ad8afd
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
